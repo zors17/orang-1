@@ -1,0 +1,185 @@
+.hands{
+  width: 650px;
+  height: 450px;
+  padding:  10px;}
+
+.love{padding-bottom: 10px;
+text-align: center;}
+h2{text-align: center;
+margin: 10px;}
+.p{font-weight: bolder;
+text-align: center;}
+.nav-item{text-align: right;}
+.highgt{width: 1150px;
+position: relative;right: 15px;
+}
+body{background-color: #FF8E00;
+text-align:center ;
+ position: relative;
+z-index: +1;}
+.hands{
+  width: 480px;
+  height: 270;}
+.cards{padding: 0;
+display: inline;}
+.love{padding-bottom: 10px;
+text-align: center;}
+h2{text-align: center;
+margin: 10px;}
+.p{font-weight: bolder;
+text-align: center;}
+.nav-item{text-align: right;}
+.highgt{width: 1150px;
+
+position: relative;right: 15px;
+
+
+}
+body{background-color: #FF8E00;
+text-align:center ;}
+.color{color: #fff;
+position: relative;right: 10px;}
+.V-DAY{color: #1572A1}
+.sticker{height: 300px;
+width: 300px;
+padding: 0;
+margin: 0}
+.hight{font-weight: bolder;
+color: #1572A1;
+font-family: 'Quicksand', sans-serif;
+font-weight: 900;
+font-weight: bolder;
+padding: 5px;
+text-align: center;}
+
+
+@media only screen and (max-width: 600px) {
+  .highgt,.girl{height: 280px;
+  width:300px;
+text-align: center;
+position: relative;left: 10px;
+padding: 10px;}
+  .girl{position: relative;left: 80px;}
+
+
+
+
+}
+
+
+/* message */
+.p{font-family: 'Quicksand', sans-serif; font-weight: lighter;
+color: #03045E}
+ #hawra{text-align: center; color: #24A19C;
+ ;
+background-color: #C0D8C0;
+padding-top: 0}
+.message{color: #FF6464;
+text-align: left;}
+.last{padding-bottom: 10px;}
+.m{margin :0px;
+text-align: left;
+padding: 10px;}
+.fo{margin-top:200px;
+  margin-bottom: 0}
+
+.te{padding: 40px;
+margin: 20px;}
+
+.te-so{position: 80px;}
+  .testimonial-image {
+    width: 10%;
+  border-radius: 50%;
+    margin: 20px;
+  text-align: center;}
+  .d-block{ display: inline!important;
+  padding-bottom: 20px;}
+.user{padding-bottom: 10px;
+color: #2C3333}
+.vday{font-family: 'Redressed', cursive;
+font-weight: bolder;
+font-size: 75PX;
+color: #FA4EAB}
+.maine{padding: 20px;
+color: red;}
+
+.color{color: #fff;
+position: relative;right: 10px;}
+.V-DAY{color: #1572A1}
+.sticker{height: 300px;
+width: 300px;
+padding: 0;
+margin: 0}
+.hight{font-weight: bolder;
+color: #1572A1;
+font-family: 'Quicksand', sans-serif;
+font-weight: 900;
+font-weight: bolder;
+padding: 5px;
+text-align: center;}
+
+
+@media only screen and (max-width: 600px) {
+  .highgt,.girl{height: 280px;
+  width:300px;
+text-align: center;
+position: relative;left: 10px;
+padding: 10px;}
+.card-text {
+  background-color: white ;
+  color: black!important
+}}
+
+  .girl{position: relative;left: 80px;}
+
+.img-fluid{width: auto;height: auto;}
+
+
+.image{width: 320px;
+height: 150px;}
+
+/* message */
+.p{font-family: 'Quicksand', sans-serif; font-weight: lighter;
+color: #03045E}
+ #hawra{text-align: center; color: #24A19C;
+ ;
+background-color: #C0D8C0;
+padding-top: 0}
+.message{color: #FF6464;
+text-align: left;}
+.last{padding-bottom: 10px;}
+.m{margin :0px;
+text-align: left;
+padding: 10px;}
+.fo{margin-top:200px;
+  margin-bottom: 0}
+
+.te{padding: 40px;
+margin: 20px;}
+
+.te-so{position: 80px;}
+  .testimonial-image {
+    width: 10%;
+  border-radius: 50%;
+    margin: 20px;
+  text-align: center;}
+  .d-block{ display: inline!important;
+  padding-bottom: 20px;}
+.user{padding-bottom: 10px;
+color: #2C3333}
+.vday{font-family: 'Redressed', cursive;
+font-weight: bolder;
+font-size: 75PX;
+color: #FA4EAB}
+.maine{padding: 20px;
+color: red;}
+
+
+.card-text{color: black;}
+
+
+
+
+
+.cards{padding-bottom: 10px;}
+.card-img-top{width: 248.625 140}
